@@ -1,0 +1,33 @@
+# Environment variables / secrets
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# User uploads
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# Installer / local tools
+*.dmg
+
+# Logs
+*.log
+TablePlus
