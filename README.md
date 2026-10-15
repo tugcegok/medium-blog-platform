@@ -184,3 +184,17 @@ This project was developed as a full-stack web application to practice and demon
 ## Author
 
 **Tuğçe Gök**
+
+
+---
+
+## Screenshots
+
+### Home Page
+![Mindscape Home Page](screenshots/home.png)
+
+### Login Page
+![Mindscape Login Page](screenshots/login.png)
+
+### Register Page
+![Mindscape Register Page](screenshots/register.png)
